@@ -1,6 +1,6 @@
 ### Hey, I'm Aaron 👋
 
-Front End Developer. The following emoji's will give you some more info on me:
+Freelance Laravel Developer. The following emoji's will give you some more info on me:
 
 # ☕️ 🐶 🏡 👨🏼‍💻 🏎 🍔 🍕 🏕 🌊 📸
 
