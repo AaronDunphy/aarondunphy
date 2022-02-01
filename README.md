@@ -1,6 +1,6 @@
 ### Hey, I'm Aaron 👋
 
-Software Developer now focusing on Front End Development with React.
+Freelance Web Developer helping Designers and Marketers build Impactful Websites.
 
 The following emoji's will give you some more info on me:
 
