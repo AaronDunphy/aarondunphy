@@ -1,6 +1,6 @@
 ### Hey, I'm Aaron 👋
 
-Freelance Web Developer helping Designers and Marketers build Impactful Websites.
+Freelance Web Developer - I partner with Designers and Marketers to build Impactful Websites.
 
 The following emoji's will give you some more info on me:
 
