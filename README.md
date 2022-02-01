@@ -1,6 +1,6 @@
 ### Hey, I'm Aaron 👋
 
-Freelance Web Developer - I partner with Designers and Marketers to build Impactful Websites.
+Software Engineer with 7+ years of web development experience. Currently focused on React & Gatsby/Next.js.
 
 The following emoji's will give you some more info on me:
 
