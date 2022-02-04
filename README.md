@@ -1,6 +1,6 @@
 ### Hey, I'm Aaron 👋
 
-Software Engineer with 7+ years of Web Development experience. Currently focused on React & Gatsby/Next.js.
+Software Engineer with 7+ years of Web Development experience. Building Products, Tools & Services with Laravel & React.
 
 The following emoji's will give you some more info on me:
 
