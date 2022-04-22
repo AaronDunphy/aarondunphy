@@ -1,6 +1,6 @@
 ### Hey, I'm Aaron 👋
 
-Software Engineer with 7+ years of Web Development experience. Building Products, Tools & Services with Laravel & React.
+Front End Developer - JavaScript - React - Next.js - Headless
 
 The following emoji's will give you some more info on me:
 
