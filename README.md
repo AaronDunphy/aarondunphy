@@ -1,6 +1,6 @@
 ### Hey, I'm Aaron 👋
 
-Software Engineer
+Front End Developer - JavaScript / TypeScript / React
 
 The following emoji's will give you some more info on me:
 
