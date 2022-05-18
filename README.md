@@ -1,6 +1,6 @@
 ### Hey, I'm Aaron 👋
 
-Front End Developer - JavaScript - React - Next.js - Headless
+Software Engineer
 
 The following emoji's will give you some more info on me:
 
