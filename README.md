@@ -1,6 +1,6 @@
 ### Hey, I'm Aaron 👋
 
-Software Engineer - TypeScript, React & Node
+Software Engineer - Next.js, React & TypeScript
 
 The following emoji's will give you some more info on me:
 
